@@ -3,3 +3,5 @@
 ### Example code: https://github.com/benawad/lireddit
 
 ### Current progress: xx:xx
+
+#### Techs used: TypeScript, React, GraphQL, Postgres, Node.js, Next.js
