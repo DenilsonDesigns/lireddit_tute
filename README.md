@@ -2,6 +2,6 @@
 
 ### Example code: https://github.com/benawad/lireddit
 
-### Current progress: xx:xx
+### Current progress: https://youtu.be/I6ypD7qv3Z8?t=4168
 
 #### Techs used: TypeScript, React, GraphQL, Postgres, Node.js, Next.js
