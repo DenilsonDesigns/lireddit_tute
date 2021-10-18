@@ -1,0 +1,18 @@
+req.session.userId = user.id;
+
+storing data into session (redis)
+
+{
+  sess:asdfqewfasdf -> {userId: 1}
+}
+
+express-session will set a cookie on my browser asdfaewqf 
+(signed version of the `sess` key)
+
+when user makes a request, the browser value will be sent to server.
+
+on the server, it unsigns the value, checks it matches the `sess` value
+
+make a request to redis, and get the data that matches the data.
+
+store that on req.session.
